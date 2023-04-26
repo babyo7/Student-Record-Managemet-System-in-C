@@ -1,1 +1,0 @@
-# Student-Record-Managemet-System-in-C
